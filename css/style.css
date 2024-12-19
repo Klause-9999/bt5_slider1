@@ -1,0 +1,34 @@
+.banner{
+	background-image: url(../assets/img/1.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.slider{
+	background-color: rgba(1,1,1,.7);
+	color: white;
+	padding: 70px;
+}
+.slider h1{
+	font-size: 30px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+.slider p{
+	font-size: 20px;
+	margin-bottom: 30px;
+}
+.slider button{
+	margin-bottom: 100px;
+}
+
+.carousel-indicators{
+	bottom: 40px;
+}
+
+.carousel-indicators li{
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	background-color: rgba(255, 255, 255, 0.5);
+}
